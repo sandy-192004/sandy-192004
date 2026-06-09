@@ -68,18 +68,6 @@ public class Sandhiya {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/sandy-192004">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=sandy-192004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-  </a>
-  <a href="https://github.com/sandy-192004">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandy-192004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-  </a>
-</div>
 
 ---
 
